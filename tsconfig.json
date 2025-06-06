@@ -18,7 +18,7 @@
         "name": "next"
       }
     ],
-    "types": ["convex"],
+    "types": ["convex", "openai"],
     "paths": {
       "@/*": ["./*"]
     }
